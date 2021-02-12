@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url('https://scontent.feoh3-1.fna.fbcdn.net/v/t1.0-9/71599160_10214528435035905_2981012933296783360_o.jpg?_nc_cat=104&ccb=3&_nc_sid=825194&_nc_ohc=iqtq5HtYVCcAX_jCVpG&_nc_ht=scontent.feoh3-1.fna&oh=87314c657fe78c4f325fda9929eedb1b&oe=6049D149');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 code {

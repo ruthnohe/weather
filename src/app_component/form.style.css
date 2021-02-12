@@ -4,11 +4,11 @@ form{
 
 form input[name="city"], form input[name="country"]{
 background-color: transparent;
-color: white;
+color: yellow;
 border-bottom: 2px solid whitesmoke;
 border-radius: 0;
-
 }
+
 form input:focus{
     background-color: transparent;
     box-shadow: none;
